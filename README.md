@@ -34,3 +34,9 @@ def check_password_strength(password):
 password = input("Enter your password: ")
 strength = check_password_strength(password)
 print(f"The password is {strength}")
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
